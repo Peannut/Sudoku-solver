@@ -29,4 +29,6 @@ would represent a board like this:
  ...
 ```
 Now, our goal is to solve our sudoku puzzle using Python! :D
+
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
